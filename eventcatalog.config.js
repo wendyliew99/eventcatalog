@@ -31,12 +31,12 @@ module.exports = {
     { label: 'Services', href: '/services' },
     { label: 'Visualiser', href: '/visualiser' },
     { label: '3D Node Graph', href: '/overview' },
-    { label: 'GitHub', href: 'https://github.com/boyney123/eventcatalog-demo/edit/master' }
+    { label: 'GitHub', href: 'https://github.com/wendyliew99/eventcatalog/edit/master' }
   ],
   users: [
     {
-      id: 'dboyne',
-      name: 'David Boyne',
+      id: 'wendyliew',
+      name: 'wendyliew',
       avatarUrl: 'https://pbs.twimg.com/profile_images/1262283153563140096/DYRDqKg6_400x400.png',
       role: 'Developer',
     },
